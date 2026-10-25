@@ -1,0 +1,12 @@
+{
+  "name": "master-ai-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone password-protected mobile-first AI assistant",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
